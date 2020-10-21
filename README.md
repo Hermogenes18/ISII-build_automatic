@@ -12,6 +12,7 @@ Instalación usando apt en ubuntu <br />
 ### Creación del proyecto
 ![Alt text](/img/creacion_qt.png)
 ### Seleccionar Build System
+El Archivo de configuracion se genera automaticamente. </br>
 ![Alt text](/img/build_seleccion.png)
 ### Seleccionar Kits
 ![Alt text](/img/kits.png)
