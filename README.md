@@ -20,9 +20,13 @@ Instalación usando apt en ubuntu <br />
 <img src="./img/creacion_qt.png" width="600" height="400">
 
 ### Seleccionar Build System
-</br> El Archivo de configuracion se genera automaticamente. </br>
+
+</br> Dentro de los sistemas de construcción que nos permite usar Qtcreator estan Qmake y Cmake.</br>
+</br>
 <img src="./img/build_seleccion.png" width="600" height="400">
 
+ </br> El Archivo de configuracion se genera automaticamente.
+ 
  </br> Parte importante del archivo makefile generado con Qmake </br>
 
 ``` makefile
@@ -65,15 +69,17 @@ STRIP         = strip
 ####### Output directory
 ```
 
-### Seleccionar Kits
+
+<h3>Seleccionar Kits</h3>
 <img src="./img/kits.png" width="600" height="400">
-### Crear clases del proyecto
+
+<h3>Crear clases del proyecto</h3>
 <img src="./img/crear_clases.png" width="600" height="400">
-### Configurar el control de versiones
+<h3>Configurar el control de versiones</h3>
 <img src="./img/git.png" width="600" height="400">
 
 <br /> Por defecto se crea un git local, se puede sincronizar con github. <br />
-<img src="./img/git_version.png" width="600" height="400">
+<img src="./img/git_version.png" width="800" height="200">
 
 
 </body>
