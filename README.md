@@ -20,7 +20,7 @@ Instalación usando apt en ubuntu <br />
 <img src="./img/creacion_qt.png" width="600" height="400">
 
 ### Seleccionar Build System
-El Archivo de configuracion se genera automaticamente. </br>
+</br> El Archivo de configuracion se genera automaticamente. </br>
 <img src="./img/build_seleccion.png" width="600" height="400">
 
  </br> Parte importante del archivo makefile generado con Qmake </br>
@@ -64,6 +64,7 @@ STRIP         = strip
 
 ####### Output directory
 ```
+
 ### Seleccionar Kits
 <img src="./img/kits.png" width="600" height="400">
 ### Crear clases del proyecto
